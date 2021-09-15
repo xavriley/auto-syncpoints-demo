@@ -1,0 +1,9 @@
+Cython==0.29.24
+greenlet @ file:///Users/runner/miniforge3/conda-bld/greenlet_1628272169821/work
+madmom==0.16.1
+mido==1.2.10
+msgpack @ file:///Users/runner/miniforge3/conda-bld/msgpack-python_1624947103368/work
+numpy==1.21.2
+pynvim @ file:///Users/runner/miniforge3/conda-bld/pynvim_1614282270861/work
+scipy==1.7.1
+youtube-dl==2021.6.6
